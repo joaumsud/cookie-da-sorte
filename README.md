@@ -1,8 +1,8 @@
-# 🍪 Cookie da Sorte - React Native
+# Cookie da Sorte - React Native
 
 Este projeto é um **aplicativo simples** de **biscoito da sorte** desenvolvido em **React Native**. A aplicação exibe mensagens aleatórias de motivação ao "quebrar" o biscoito da sorte.
 
-## 📋 Descrição
+## Descrição
 
 - **Objetivo**: Praticar os conceitos básicos de React Native, incluindo:
   - Componentes
@@ -15,14 +15,14 @@ Este projeto é um **aplicativo simples** de **biscoito da sorte** desenvolvido 
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **React Native**
 - **JavaScript ES6**
 
 ---
 
-## 🚀 Como Rodar o Projeto
+## Como Rodar o Projeto
 
 ### Pré-requisitos
 Antes de iniciar, é necessário ter configurado:
@@ -53,7 +53,7 @@ Antes de iniciar, é necessário ter configurado:
     ```bash
     npm install
 
-### 🔑 Conceitos Praticados
+### Conceitos Praticados
 
 - Uso de constructors para inicializar estados.
 - Manipulação de eventos com bind no React.
@@ -63,7 +63,7 @@ Antes de iniciar, é necessário ter configurado:
 - Renderização condicional de imagens.
 
 
-### 📝 Estrutura do Projeto
+### Estrutura do Projeto
    
     cookie-da-sorte/
     │
@@ -76,7 +76,7 @@ Antes de iniciar, é necessário ter configurado:
     ├── package.json
     └── README.md
 
-### 📌 Melhorias Futuras
+### Melhorias Futuras
 
 - Adicionar novas mensagens motivacionais.
 - Implementar um botão de "Reiniciar" para fechar o biscoito novamente.
@@ -84,7 +84,7 @@ Antes de iniciar, é necessário ter configurado:
 - Criar um layout mais dinâmico e estilizado.
 - Internacionalizar o aplicativo (português/inglês).
 
-### 🎯 Aprendizados
+### Aprendizados
 Durante o desenvolvimento deste projeto, pude aprimorar minhas habilidades em:
 
 - Estruturação de componentes no React Native.
@@ -92,6 +92,7 @@ Durante o desenvolvimento deste projeto, pude aprimorar minhas habilidades em:
 - Práticas de estilização para mobile.
 - Manipulação de imagens e randomização de mensagens.
 
-### 🧑‍💻 Meus canais
-https://github.com/joaumsud
-https://www.linkedin.com/in/joao-paulo-lima-silva/
+### Meus canais
+```bash
+- https://github.com/joaumsud
+- https://www.linkedin.com/in/joao-paulo-lima-silva/
