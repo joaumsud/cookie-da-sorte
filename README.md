@@ -94,5 +94,5 @@ Durante o desenvolvimento deste projeto, pude aprimorar minhas habilidades em:
 
 ### Meus canais
 ```bash
-- https://github.com/joaumsud
-- https://www.linkedin.com/in/joao-paulo-lima-silva/
+ https://github.com/joaumsud
+ https://www.linkedin.com/in/joao-paulo-lima-silva/
